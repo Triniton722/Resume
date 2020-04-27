@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.container {
+    background-color: darkseagreen;
+    width: 300px;
+    height: 300px;
+}
+
+.red {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+
+.blue {
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:100px;
+}
+
+.yellow {
+    background-color: darkorange;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:200px;
+}
